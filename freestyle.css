@@ -13,7 +13,6 @@ text-shadow: #FFF 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #FF2D95 0px
 }
 .height{
   margin-bottom:20px;
-  margin-right:10px;
 }
 #h2
    {
@@ -48,4 +47,8 @@ text-shadow: 0 -1px 4px #FFF, 0 -2px 10px #ff0, 0 -10px 20px #ff8000, 0 -18px 40
 body{
   width:100vh;
   height:100vh;
+  list-style:none;
+}
+p{
+  text-justify:auto;
 }
